@@ -1,0 +1,30 @@
+{
+  "name": "bbctopten",
+  "version": "1.0.0",
+  "description": "scrape the 10 most read bbc news stories to your terminal window",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s33dco/bbctopten.git"
+  },
+  "keywords": [
+    "scraper",
+    "bbc",
+    "news",
+    "most",
+    "read"
+  ],
+  "author": "s33dco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s33dco/bbctopten/issues"
+  },
+  "homepage": "https://github.com/s33dco/bbctopten#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "jsdom": "^12.2.0"
+  }
+}

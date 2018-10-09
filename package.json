@@ -1,6 +1,6 @@
 {
   "name": "bbctopten",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "scrape the 10 most read bbc news stories to your terminal window",
   "main": "app",
   "scripts": {
@@ -20,7 +20,7 @@
   "author": "s33dco",
   "license": "ISC",
   "bin": {
-    "bbctop10" :"./app/js"
+    "bbctop10": "./app/js"
   },
   "bugs": {
     "url": "https://github.com/s33dco/bbctopten/issues"

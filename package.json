@@ -19,6 +19,9 @@
   ],
   "author": "s33dco",
   "license": "ISC",
+  "bin": {
+    "bbctop10" :"./app/js"
+  },
   "bugs": {
     "url": "https://github.com/s33dco/bbctopten/issues"
   },

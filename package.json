@@ -2,7 +2,7 @@
   "name": "bbctopten",
   "version": "1.0.0",
   "description": "scrape the 10 most read bbc news stories to your terminal window",
-  "main": "index.js",
+  "main": "app",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

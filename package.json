@@ -1,6 +1,6 @@
 {
   "name": "bbctopten",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "scrape the 10 most read bbc news stories to your terminal window",
   "main": "cli.js",
   "scripts": {
